@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>exercice2.Company</OriginalElement>
+  <nodes>
+    <node x="98.5" y="0.0">exercice2.ICompany</node>
+    <node x="0.0" y="304.0">exercice2.Company</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="exercice2.Company" target="exercice2.ICompany">
+      <point x="0.0" y="-344.0" />
+      <point x="0.0" y="127.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8320158102766798" x="240.5" y="496.0" />
+  <SelectedNodes>
+    <node>exercice2.Company</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

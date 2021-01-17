@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="797.5" y="623.5">exercice2.Worker</node>
+    <node x="358.5" y="583.0">exercice2.Manager</node>
+    <node x="0.5" y="623.5">exercice2.Vendor</node>
+    <node x="465.0" y="0.0">exercice2.Person</node>
+    <node x="390.0" y="251.0">exercice2.Employee</node>
+    <node x="0.0" y="1023.0">exercice2.Trainee</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="exercice2.Manager" target="exercice2.Employee">
+      <point x="104.75" y="-195.0" />
+      <point x="672.75" y="558.0" />
+      <point x="612.5" y="558.0" />
+      <point x="44.5" y="141.0" />
+    </edge>
+    <edge source="exercice2.Worker" target="exercice2.Employee">
+      <point x="0.0" y="-154.5" />
+      <point x="986.0" y="558.0" />
+      <point x="701.5" y="558.0" />
+      <point x="133.5" y="141.0" />
+    </edge>
+    <edge source="exercice2.Trainee" target="exercice2.Vendor">
+      <point x="0.0" y="-73.0" />
+      <point x="0.0" y="154.5" />
+    </edge>
+    <edge source="exercice2.Employee" target="exercice2.Person">
+      <point x="0.0" y="-141.0" />
+      <point x="0.0" y="100.5" />
+    </edge>
+    <edge source="exercice2.Vendor" target="exercice2.Employee">
+      <point x="0.0" y="-154.5" />
+      <point x="169.5" y="558.0" />
+      <point x="434.5" y="558.0" />
+      <point x="-133.5" y="141.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7081581160639192" x="587.5" y="584.5" />
+  <SelectedNodes>
+    <node>exercice2.Vendor</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
